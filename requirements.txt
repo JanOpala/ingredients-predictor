@@ -1,0 +1,12 @@
+pandas
+numpy
+beautifulsoup4
+requests
+torch
+spacy
+scikit-learn
+pillow
+tqdm
+matplotlib
+gensim
+customtkinter
